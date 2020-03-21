@@ -1,1 +1,3 @@
 first text for first git lerning
+
+additional sentences
